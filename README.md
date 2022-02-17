@@ -1,16 +1,9 @@
 # Clinical_Trials
 Analysis of Clinical Trials Data
----
-title: "Re-analysis of Lombard et al. 2016"
-author: "Luiz Felipe Martucci"
-date: "2/16/2022"
-#output: html_document
-output: rmarkdown::github_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
+# "Re-analysis of Lombard et al. 2016"
+## Luiz Felipe Martucci
 
 Reanálise dos dos dados do paper:Preventing Weight Gain in Women in Rural Communities: A Cluster Randomised Controlled Trial. Lombard et al. (2016) DOI: https://doi.org/10.1371/journal.pmed.1001941
 
